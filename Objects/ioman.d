@@ -1,0 +1,15 @@
+.\objects\ioman.o: ETH\Utilities\efsl\source\ioman.c
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\ioman.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\interface.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\types.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\interface\sd_stm32.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\interface\../debug.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\interface\../config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\error.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\plibc.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\ioman.o: .\ETH\Utilities\efsl\include\config.h

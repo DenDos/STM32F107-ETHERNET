@@ -1,0 +1,9 @@
+.\objects\sd.o: ETH\Utilities\efsl\source\interface\sd.c
+.\objects\sd.o: .\ETH\Utilities\efsl\include\interface/sd.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\types.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\interface/../debug.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\interface/../config.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\interface/sd_stm32.h
+.\objects\sd.o: .\ETH\Utilities\efsl\include\config.h

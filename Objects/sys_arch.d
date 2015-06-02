@@ -1,0 +1,14 @@
+.\objects\sys_arch.o: ETH\Utilities\lwip-1.3.1\port\arch\junk\sys_arch.c
+.\objects\sys_arch.o: .\ETH\Utilities\efsl\include\debug.h
+.\objects\sys_arch.o: .\ETH\Utilities\efsl\include\types.h
+.\objects\sys_arch.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\sys_arch.o: .\ETH\Utilities\efsl\include\config.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\def.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\arch.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\port\arch/cc.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\port\arch/cpu.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\sys.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\opt.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\port\lwipopts.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\debug.h
+.\objects\sys_arch.o: .\ETH\Utilities\lwip-1.3.1\src\include\lwip\mem.h
